@@ -1,2 +1,2 @@
 # OpenUI
-By QQ 14585####6
+Source of inspiration: QQ 14585####6
